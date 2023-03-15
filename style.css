@@ -1,0 +1,38 @@
+body{
+    background-color: bisque;
+}
+section
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.maindivv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap:30px;
+    box-shadow: 0 0 15px black;
+    border: 3px solid salmon;
+    padding:20px;
+
+}
+.internaldivv
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap:30px;
+}
+h1
+{
+    text-align: center;
+    padding-top: 200px;
+}
+span{
+    background-color: aquamarine;
+}
